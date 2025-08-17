@@ -1,3 +1,3 @@
 
 
-TLDR im a game (need to make readme)
+TLDR im a game and need to fix the use of particles (need to make readme)
